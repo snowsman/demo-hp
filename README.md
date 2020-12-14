@@ -10,7 +10,7 @@
 
 ## 概要
 
-これは、デモウェブサイト（https://snowsman.github.io/demo-hp）です。
+これは、デモウェブサイト( https://snowsman.github.io/demo-hp/ )です。
 
 
 ## 備考
